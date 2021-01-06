@@ -1,0 +1,19 @@
+{
+  "name": "is-it-up",
+  "version": "1.0.0",
+  "description": "This is a simple code for checking wether a site is up or not",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/IS-IT-UP.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/IS-IT-UP/issues"
+  },
+  "homepage": "https://github.com/alestor123/IS-IT-UP#readme"
+}
