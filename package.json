@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "This is a simple code for checking wether a site is up or not",
   "main": "App.js",
+  "bin": {
+    "is-it-up": "App.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
